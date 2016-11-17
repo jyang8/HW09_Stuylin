@@ -1,0 +1,31 @@
+body {
+    background-color: mistyrose;
+}
+
+h1 {
+    text-align: right;
+}
+
+h2 {
+    font-variant: normal;
+}
+
+h3 {
+    font-family: "Courier New", Courier, monospace;
+}
+
+ul {
+    list-style-type: lower-greek;
+}
+
+li {
+    font-weight: bold;
+}
+
+a {
+    color: lightseagreen;
+}
+
+p {
+    font-style: italic;
+}
