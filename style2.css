@@ -1,21 +1,21 @@
 .extreme {
-
+    font-family: "Lucida Console", Monaco, monospace;
 }
 
 #head1 {
-
+    color: lightsteelblue;
 }
 
-.navzone {
-
+.navzone li {
+    display: block;
 }
 
 .content {
-
+    text-align: right;
 }
 
 .prose {
-
+    text-transform: capitalize;
 }
 
 body {

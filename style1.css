@@ -1,21 +1,21 @@
 .extreme {
-
+    font-family: Impact, Charcoal, sans-serif;
 }
 
 #head1 {
-
+    color: indigo;
 }
 
-.navzone {
-
+.navzone li {
+    display: inline;
 }
 
 .content {
-
+    text-align: center;
 }
 
 .prose {
-
+    text-transform: uppercase;
 }
 
 body {
