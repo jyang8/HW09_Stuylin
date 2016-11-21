@@ -1,0 +1,37 @@
+body {
+    background-color: #FFE5F5;
+    color: #50B200;
+    font-family: Times, Georgia, Serif;
+    font-size: 100%; 
+}
+
+.content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: left;
+}
+
+#header {
+    font-variant: small-caps;
+}
+
+.textwall {
+    overflow: auto;
+}
+
+h1, h2, h3 {
+    text-shadow: 2px 2px #50515C;
+}
+
+li:hover, strong:hover, em:hover {
+    background-color: white;
+}
+
+ul {
+    list-style-type: square;
+}
